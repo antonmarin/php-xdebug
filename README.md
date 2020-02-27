@@ -1,3 +1,5 @@
+### Abandoned! Prefer using https://github.com/antonmarin/php
+
 # php-xdebug
 Clean php images with xdebug included. When you don't need own php image, but want to debug.
 
